@@ -1,3 +1,12 @@
+# iPod using React Js
+Built an iPod which has menu options like music,settings,coverflow,games,etc.
+Song is also added to the project , can be played or paused.
+
+# Tools used :
+1. React Js
+2. React Bootstrap
+3. Zing Touch 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

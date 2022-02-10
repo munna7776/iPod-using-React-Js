@@ -1,16 +1,16 @@
-import './App.css';
-import ButtonContainer from './components/ButtonContainer';
-import ScreenContainer from './components/ScreenContainer';
+import { Component} from 'react';
+import Ipod from './components/Ipod';
 
-function App() {
-  return (
-    <div className="App">
-      <div className="container">
-        <ScreenContainer />
-        <ButtonContainer />
+class App extends Component {
+
+
+  render(){
+    return (
+      <div className="App">
+        <Ipod />
       </div>
-    </div>
-  );
+    );
+  }
 }
 
 export default App;

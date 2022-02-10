@@ -10,9 +10,17 @@ body {
   background-size: cover;
   height: 100%;
   width: 100%;
+  font-family: 'cursive'
+}
+.center-button {
+	width: 50%;
+	height: 50%;
+	border-radius: inherit;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	color: white;
+	outline: none;
+	border: none;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
