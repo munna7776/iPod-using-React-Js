@@ -1,6 +1,21 @@
 # iPod using React Js
 Built an iPod which has menu options like music,settings,coverflow,games,etc.
-Song is also added to the project , can be played or paused.
+
+## Features
+1.Build a menu of options like you see such as Settings, Games, Music etc
+2.On clicking of the centre button go inside the menu
+3.Clicking on the menu should hide the menu and open a screen of that particular option, like settings, games etc
+4.Click and hold on the circular menu and move the mouse in a circular fashion inside the menu boundary (white circle is the menu) to navigate in the iPod menu
+5.Clicking on “Menu” should take you back to the main menu
+6.Create sub menu inside menu like in Music option, it has sub menu with options “My Music”, “Artists” etc
+
+## How to use?
+1. In the group of circular action buttons section, the upper-most button is the menu button. left and right buttons are navigation buttons. The bottom-most button is the Play/Pause button to stop or play the current song.
+2. To navigate in the menu, just swipe clockwise if you want to select an item which is available below the currently selected item. And similarly, swipe anti-clockwise if you want to select an item which is available above the currently selected item.
+3. Go to All Songs in the Music Section to view a list of current song available.
+4. To play a song click the "Select" button. Also to select a section from the list of Sections in the menu, press "Select Button".
+6. To see Artist, you can click on Menu button and then Artist, there you can see the profile.
+7. Songs can be found in the Music/All Songs Section. All other pages are dummy pages for illustration purposes.
 
 # Tools used :
 1. React Js
